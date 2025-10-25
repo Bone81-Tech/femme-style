@@ -39,7 +39,7 @@ Thumbs.db
 
 # Next.js specific
 .next/
-!.next/cache
+
 
 # Vercel artifacts
 .vercel/
