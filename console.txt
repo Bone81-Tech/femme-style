@@ -1,0 +1,3 @@
+:3000/api/products:1   Failed to load resource: the server responded with a status of 404 (Not Found)
+D:\src\client\components\globals\intercept-console-error.ts:40  Error fetching products: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+error @ D:\src\client\components\globals\intercept-console-error.ts:40
